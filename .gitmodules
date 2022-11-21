@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = /backend
+	url = https://github.com/start-ethereum-dapp/backend.git
 [submodule "frontend"]
 	path = frontend
-	url = /frontend
+	url = https://github.com/start-ethereum-dapp/frontend.git
