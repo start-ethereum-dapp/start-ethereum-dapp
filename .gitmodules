@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = /https://github.com/Cocodrilette/backend.git
+	url = /backend
 [submodule "frontend"]
 	path = frontend
-	url = /https://github.com/Cocodrilette/frontend.git
+	url = /frontend
