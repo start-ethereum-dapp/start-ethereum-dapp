@@ -1,5 +1,5 @@
 # start-eth-dapp
-A simple yet powerfull Ethereum DApp scaffold for you to build fast and easy.
+A simple yet powerful Ethereum DApp scaffold for you to build fast and easy.
 
 ## 1. Clone the repo 
 ```
