@@ -1,7 +1,3 @@
-# start-eth-dapp
-A simple yet powerful Ethereum DApp scaffold for you to build fast and easy.
+# start-ethereum-dapp
 
-## 1. Clone the repo 
-```
-git clone https://github.com/start-ethereum-dapp/start-ethereum-dapp.git --recursive
-```
+## See the docs [here](https://cocodrilette/posts/)
